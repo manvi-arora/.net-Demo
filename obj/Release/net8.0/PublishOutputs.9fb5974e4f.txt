@@ -1,0 +1,9 @@
+C:\Users\ManviArora\OneDrive - Iamops\.net\bin\Release\net8.0\publish\.net.exe
+C:\Users\ManviArora\OneDrive - Iamops\.net\bin\Release\net8.0\publish\web.config
+C:\Users\ManviArora\OneDrive - Iamops\.net\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\ManviArora\OneDrive - Iamops\.net\bin\Release\net8.0\publish\appsettings.json
+C:\Users\ManviArora\OneDrive - Iamops\.net\bin\Release\net8.0\publish\.net.dll
+C:\Users\ManviArora\OneDrive - Iamops\.net\bin\Release\net8.0\publish\.net.deps.json
+C:\Users\ManviArora\OneDrive - Iamops\.net\bin\Release\net8.0\publish\.net.runtimeconfig.json
+C:\Users\ManviArora\OneDrive - Iamops\.net\bin\Release\net8.0\publish\.net.pdb
+C:\Users\ManviArora\OneDrive - Iamops\.net\bin\Release\net8.0\publish\Newtonsoft.Json.dll

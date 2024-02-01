@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g93s5sThxZLU8nFnuFcafYF9Eg8QNDj9kT8XUnPu5hex34wxQYJxgPtQbqlez+TSGlX71d1l9WrkN4xM+dZHNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ManviArora\\OneDrive - Iamops\\.net\\.net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ManviArora\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
